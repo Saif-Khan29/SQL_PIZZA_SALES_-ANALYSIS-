@@ -20,7 +20,7 @@ The analysis focuses on the following key aspects:
 * Average Orders Per Day: Calculating the average number of pizzas ordered daily.
 * Top 3 Most Ordered Pizzas by Revenue: Determining the top 3 pizzas that generate the most revenue.
 * Cumulative Revenue Analysis: Analyzing revenue growth over time.
-* 
+ 
 4. **Insights**
 * High Demand for Specific Pizza Types: Certain pizzas have a significantly higher order volume, which could be highlighted in marketing campaigns.
 * Peak Ordering Hours: Orders tend to peak at specific hours, suggesting optimal times for promotional offers.
